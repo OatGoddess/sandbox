@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Rayne",
+  "classifications": [
+    "Web",
+    "WebAPI"
+  ],
+  "identity": "rayne.moduleapi",
+  "name": "Module Api",
+  "shortName": "moduleapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
